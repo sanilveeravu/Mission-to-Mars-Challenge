@@ -27,10 +27,8 @@ A new website was built using flask with the scrape option. The overall page loo
 
 The new components added were put also into grids. Added a new feature of using offset to get the required spacing.
 
-    https://github.com/sanilveeravu/Mission-to-Mars-Challenge/blob/e2564dde6e8ffffc8bf320ca9d3081adca9dba51/templates/index.html#L50
-
-    |![Grid](Resources/Grid.png)|
-    | ------ |
+|![Grid](Grid/Button.png)|
+|------|
 
 ### Additional Styling
 
@@ -45,7 +43,8 @@ The new components added were put also into grids. Added a new feature of using 
 
     https://github.com/sanilveeravu/Mission-to-Mars-Challenge/blob/e2564dde6e8ffffc8bf320ca9d3081adca9dba51/scraping.py#L111
 
-    ![Table](Resources/Table.png)
+    |![Table](Resources/Table.png)|
+    | ------ |
 
 3. The tile was updated to use lead.
 
