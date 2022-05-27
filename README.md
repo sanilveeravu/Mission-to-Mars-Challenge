@@ -29,7 +29,8 @@ The new components added were put also into grids. Added a new feature of using 
 
     https://github.com/sanilveeravu/Mission-to-Mars-Challenge/blob/e2564dde6e8ffffc8bf320ca9d3081adca9dba51/templates/index.html#L50
 
-    ![Grid](Resources/Grid.png)
+    |![Grid](Resources/Grid.png)|
+    | ------ |
 
 ### Additional Styling
 
@@ -37,7 +38,8 @@ The new components added were put also into grids. Added a new feature of using 
 
     https://github.com/sanilveeravu/Mission-to-Mars-Challenge/blob/e2564dde6e8ffffc8bf320ca9d3081adca9dba51/templates/index.html#L17
 
-    ![Button](Resources/Button.png)
+    |![Button](Resources/Button.png)|
+    | ------ |
 
 2. The table was styled using bootstrap table class and various options. This was done as part of pandas to make it auto generated.
 
@@ -49,7 +51,8 @@ The new components added were put also into grids. Added a new feature of using 
 
     https://github.com/sanilveeravu/Mission-to-Mars-Challenge/blob/e2564dde6e8ffffc8bf320ca9d3081adca9dba51/templates/index.html#L29
 
-    ![Lead](Resources/Lead.png)
+    |![Lead](Resources/Lead.png)|
+    | ------ |
 
 ---
 
