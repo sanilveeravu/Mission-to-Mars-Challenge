@@ -12,7 +12,8 @@ With lot of sites having information on Mars, this application was build to cons
 ## Results
 
 A new website was built using flask with the scrape option. The overall page looks as below:
-![FullScreenImage](Resources/FullScreenImage.png)
+|![FullScreenImage](Resources/FullScreenImage.png)|
+| ------ |
 
 ### Application Flow
 
